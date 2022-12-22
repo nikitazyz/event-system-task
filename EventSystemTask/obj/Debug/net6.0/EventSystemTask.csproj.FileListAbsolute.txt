@@ -1,0 +1,15 @@
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\bin\Debug\net6.0\EventSystemTask.exe
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\bin\Debug\net6.0\EventSystemTask.deps.json
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\bin\Debug\net6.0\EventSystemTask.runtimeconfig.json
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\bin\Debug\net6.0\EventSystemTask.dll
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\bin\Debug\net6.0\EventSystemTask.pdb
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\EventSystemTask.csproj.AssemblyReference.cache
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\EventSystemTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\EventSystemTask.AssemblyInfoInputs.cache
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\EventSystemTask.AssemblyInfo.cs
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\EventSystemTask.csproj.CoreCompileInputs.cache
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\EventSystemTask.dll
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\refint\EventSystemTask.dll
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\EventSystemTask.pdb
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\EventSystemTask.genruntimeconfig.cache
+E:\Docs\Workspace\Rider Projects\EventSystemTask\EventSystemTask\obj\Debug\net6.0\ref\EventSystemTask.dll
